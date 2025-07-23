@@ -1,3 +1,5 @@
+Each of the following section are located in /home/scout_ws/src.
+
 ### cloud_fuser
 Custom Python node to fuse Livox LiDAR and RealSense RGB-D point clouds into a unified point cloud topic for enhanced perception.
 
